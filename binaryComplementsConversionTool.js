@@ -3,7 +3,7 @@
  * @author: Antoine Dahan
  * @date 02.19.2013
  */
-function calculate(form)	{
+function calculate()	{
 	
 	var inputNumber = document.getElementById("inputNumber").value;
 	var binary, ones, twos;
